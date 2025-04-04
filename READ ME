@@ -1,0 +1,37 @@
+MOVIE RENTAL DATABASE
+
+OVERVIEW
+A Movie Rental Database is designed to manage the entire process of renting movies, from customer registration to movie inventory management, rentals, payments, and reviews. 
+It helps businesses track transactions, customer interactions, and movie availability efficiently.
+
+Key Features of the Movie Rental Database
+Customer Management: Register, update, and retrieve customer information.
+
+MOVIES: Track available movies and their rental status.
+
+Rental : Manage rental dates, due dates, and return status.
+
+Payment Processing: Record payment transactions linked to rentals.
+
+Review : Allow customers to rate and review movies.
+
+Employee Oversight: Manage employee roles and responsibilities.
+
+ Sample Use Cases Customer Renting a Movie:
+
+Add a rental entry with the customer’s ID, movie ID, and rental date.
+
+Payment is processed, and the transaction is recorded in the Payments table.
+
+The customer can review the movie after watching.
+
+Employee Managing Rentals:
+
+Employees can track overdue rentals, send reminders, and handle customer queries.
+
+Generating Reports:
+
+Generate reports on popular movies, customer rental history, and revenue from payments.
+
+
+
